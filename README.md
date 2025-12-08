@@ -1,5 +1,5 @@
 # `mos-sud-parse`
-This repository contains the source code of the script used to collect empirical data on the activities of Moscow's courts in the research paper «Theoretical Analysis of the Subject and Role of Rhetoric in Terms of Modern Russian Criminal Procedure Reality».
+This repository contains the source code of the script used to collect empirical data on the activities of Moscow's courts in the research paper *«Theoretical Analysis of the Subject and Role of Rhetoric in Terms of Modern Russian Criminal Procedure Reality»*.
 
 ## Problem
 Collecting empirical data from the official portal of Moscow judges (https://mos-sud.ru) is complicated by the lack of functionality for quick export.
