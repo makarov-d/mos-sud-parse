@@ -1,0 +1,12 @@
+{
+  "name": "mos-sud-parse",
+  "version": "1.0.0",
+  "description": "A parser for court hearing schedules from the official Moscow courts website (www.mos-sud.ru)",
+  "license": "GPL-3.0",
+  "author": "Makarov Dmitry Vyacheslavovich",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "jsdom": "^27.2.0"
+  }
+}
