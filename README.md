@@ -1,8 +1,8 @@
 # `mos-sud-parse`
-This repository contains the source code of the script used to collect empirical data on the activities of Moscow's courts in the research paper *[«Theoretical Analysis of the Subject Matter and Role of Rhetoric in the Paradigm of Modern Legal Education»](https://makarov.ink/read/?id=2)*.
+This repository contains the source code of the script used to collect empirical data on the activities of Moscow Justices of the Peace in the research paper *[«Theoretical Analysis of the Subject Matter and Role of Rhetoric in the Paradigm of Modern Legal Education»](https://makarov.ink/read/?id=2)*.
 
 ## Problem
-Collecting empirical data from the official portal of Moscow judges (https://mos-sud.ru) is complicated by the lack of functionality for quick export.
+Collecting empirical data from the official portal of Moscow Justices of the Peace (https://mos-sud.ru) is complicated by the lack of functionality for quick export.
 
 ## Solution
 I wrote a tool for quickly and efficiently parsing the content of the aforementioned web portal and saving relevant data in a convenient JSON format, which was later manually converted to CSV and imported into Google Sheets.
